@@ -40,5 +40,20 @@
     "LICENSE",
     "lib",
     "src"
+  ],
+  "keywords": [
+    "gulpplugin",
+    "jest",
+    "test",
+    "testing",
+    "gulp",
+    "unit",
+    "framework",
+    "runner",
+    "tdd",
+    "bdd",
+    "qunit",
+    "spec",
+    "tap"
   ]
 }
